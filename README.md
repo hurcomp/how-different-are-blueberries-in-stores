@@ -1,2 +1,2 @@
 # how-different-are-blueberries-in-stores
-A pet stat project
+A pet stat project (berries.ipynb)
